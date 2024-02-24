@@ -12,7 +12,7 @@ const defaultMenu = {
   before: `
 *⏱️ Jessi Md - bot_*
 
-*♻️ Library : [ Baileys-MD ]_*
+*♻️ Library : [  ⃞🌷𝗠𝗥.𝗦𝗜𝗧𝗛𝗨𝗠 𝗘𝗦𝗛𝗔𝗡💙⃝ ]_*
 *🕹 Prefix : [ %_p ]_*
 *💻Platform : [ %platform ]_*
 *⏲️ Uptime : [ %muptime ]_*
